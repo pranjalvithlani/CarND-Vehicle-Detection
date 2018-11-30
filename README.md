@@ -20,9 +20,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./examples/car_not_car.png
-[image2]: ./examples/HOG_example.jpg
-[image3]: ./examples/sliding_windows.jpg
-[image4]: ./examples/detected_windows.jpg
+[image2]: ./examples/HOG_example.png
+[image3]: ./examples/sliding_windows.png
+[image4]: ./examples/detected_windows.png
 [image5]: ./examples/bboxes_and_heat.png
 [image6]: ./examples/labels_map.png
 [image7]: ./examples/output_bboxes.png
