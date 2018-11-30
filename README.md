@@ -20,12 +20,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./examples/car_not_car.png
-[image2]: ./examples/HOG_example.png
-[image3]: ./examples/sliding_windows.png
+[image2]: ./examples/HOG_example.PNG
+[image3]: ./examples/sliding_windows.PNG
 [image4]: ./examples/detected_windows.png
-[image5]: ./examples/bboxes_and_heat.png
-[image6]: ./examples/labels_map.png
-[image7]: ./examples/output_bboxes.png
+[image5]: ./examples/bboxes_and_heat.PNG
+[image6]: ./examples/labels_map.PNG
+[image7]: ./examples/output_bboxes.PNG
 [video1]: ./output_v5_full.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
